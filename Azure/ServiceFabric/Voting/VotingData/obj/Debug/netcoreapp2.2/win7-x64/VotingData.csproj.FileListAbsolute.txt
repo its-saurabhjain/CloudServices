@@ -1,0 +1,17 @@
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.csprojAssemblyReference.cache
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\VotingData.exe
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\VotingData.deps.json
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\VotingData.runtimeconfig.json
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\VotingData.runtimeconfig.dev.json
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\VotingData.dll
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\bin\Debug\netcoreapp2.2\win7-x64\VotingData.pdb
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.csproj.CoreCompileInputs.cache
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.RazorAssemblyInfo.cache
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.RazorAssemblyInfo.cs
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.AssemblyInfoInputs.cache
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.AssemblyInfo.cs
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.RazorTargetAssemblyInfo.cache
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.dll
+C:\Cloud\Azure\ServiceFabric\Voting\VotingData\obj\Debug\netcoreapp2.2\win7-x64\VotingData.pdb

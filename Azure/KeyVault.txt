@@ -1,0 +1,26 @@
+$keyVaultName = "mytestvault"
+$resourceGroupName="demoRM"
+$location='North Central US'
+$userPrincipalName='jain-saurabh@hcl.com'
+
+New-AzureRmResourceGroup -Name $resourceGroupName -Location $location
+
+az keyvault create --name $keyVaultName --resource-group $resourceGroupName --location $location --enabled-for-template-deployment true
+
+az keyvault set-policy --upn $userPrincipalName --name $keyVaultName --secret-permissions set delete get list
+
+$password = (openssl rand -base64 32)
+echo $password
+$secretvalue = ConvertTo-SecureString $password -AsPlainText -Force
+
+az keyvault secret set --vault-name $keyVaultName --name 'vmAdminPassword' --value $password
+
+
+az role definition create --role-definition "~/CustomRoles/ReaderSupportRole.json"
+
+
+az role assignment create --resource-group $resourceGroupName -RoleDefinitionName "Key Vault resource manager template deployment operator" -SignInName $userPrincipalName
+az role assignment create --resource-group $resourceGroupName --assignee $userPrincipalName  --role "e90799de-b39e-4c0d-8f0b-56205b0c9e09"
+
+
+/subscriptions/<subscription-id>/resourceGroups/demoRG/providers/Microsoft.KeyVault/vaults/<vault-name>

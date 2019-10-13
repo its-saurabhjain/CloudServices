@@ -1,0 +1,14 @@
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\bin\Debug\netcoreapp2.2\OpenAPIDemo.deps.json
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\bin\Debug\netcoreapp2.2\OpenAPIDemo.runtimeconfig.json
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\bin\Debug\netcoreapp2.2\OpenAPIDemo.runtimeconfig.dev.json
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\bin\Debug\netcoreapp2.2\OpenAPIDemo.dll
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.csprojAssemblyReference.cache
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.csproj.CoreCompileInputs.cache
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.RazorAssemblyInfo.cache
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.RazorAssemblyInfo.cs
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.AssemblyInfoInputs.cache
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.AssemblyInfo.cs
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.RazorTargetAssemblyInfo.cache
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\bin\Debug\netcoreapp2.2\OpenAPIDemo.pdb
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.dll
+C:\Cloud\Azure\APIManagement\OpenAPIDemo\OpenAPIDemo\obj\Debug\netcoreapp2.2\OpenAPIDemo.pdb

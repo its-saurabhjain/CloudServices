@@ -1,0 +1,11 @@
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.deps.json
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.runtimeconfig.json
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.runtimeconfig.dev.json
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.dll
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\bin\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.pdb
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.csprojAssemblyReference.cache
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.csproj.CoreCompileInputs.cache
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.AssemblyInfoInputs.cache
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.AssemblyInfo.cs
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.dll
+c:\Cloud\AWS\Lambda\PatientListFunction\src\PatientListFunction\obj\Release\netcoreapp2.1\rhel.7.2-x64\PatientListFunction.pdb
